@@ -30,7 +30,10 @@
       "instagram_url": "https://www.instagram.com/asakusa_5w_tokyo?igsh=MWtucGx3eHZ0b2h0aQ==",
       "maps_link": "https://maps.app.goo.gl/fXbRutAYbfwRURvb8",
       "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3041.1465698468437!2d139.7915157!3d35.7166131!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188f7f6725d0bf%3A0x39af2212744db3fa!2zV2FneXUgU3RlYWsgSGFtYnVyZ2VyIChIYWxhbCBWZWdhbiBHbHV0ZW4gRnJlZSkgQXNha3VzYSBSZXN0YXVyYW50IOa1heiNiSDlkozniZsg6aSQ5Y6F!5e1!3m2!1sja!2sjp!4v1778839909309!5m2!1sja!2sjp",
-      "tablecheck_url": "https://www.tablecheck.com/shops/wagyu-burger-steak-teriyaki-5w-tokyo/reserve"
+      "tablecheck_url": "https://www.tablecheck.com/shops/wagyu-burger-steak-teriyaki-5w-tokyo/reserve",
+      "google_rating": "4.8",
+      "google_count": "3,461",
+      "google_rating_img": "assets/asakusa_review.jpg"
     },
     {
       "slug": "kyoto-station",
@@ -54,7 +57,10 @@
       "instagram_url": "https://www.instagram.com/kyoto_beeftei?igsh=MWh0cXF3ajY3ZGZmNw==",
       "maps_link": "https://maps.app.goo.gl/FWXEbcpzn2UBsP5R9",
       "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d191.80962803300258!2d135.758567!3d34.9813969!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60010914c6123c99%3A0xce2cb01951e322a2!2zV2FneXUgU3RlYWsgSGFtYnVyZ2VyIChIYWxhbCBWZWdhbiBHbHV0ZW4gRnJlZSkgS3lvdG8gU3RhdGlvbiBSZXN0YXVyYW50IOS6rOmDvSDlkozniZsg54mb5o6S!5e1!3m2!1sja!2sjp!4v1778840662153!5m2!1sja!2sjp",
-      "tablecheck_url": "https://www.tablecheck.com/shops/5wkyotostation/reserve"
+      "tablecheck_url": "https://www.tablecheck.com/shops/5wkyotostation/reserve",
+      "google_rating": "4.6",
+      "google_count": "1,563",
+      "google_rating_img": "assets/kyotostation_review.jpg"
     },
     {
       "slug": "kyoto-kawaramachi",
@@ -78,7 +84,10 @@
       "instagram_url": "https://www.instagram.com/kyoto_beeftei?igsh=MWh0cXF3ajY3ZGZmNw==",
       "maps_link": "https://maps.app.goo.gl/nANKvRW8xDvM6DC2A",
       "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3067.972209755835!2d135.7679637!3d35.007585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109eb0b6e9e0d%3A0x396abcf92231069c!2zS3lvdG8gUmVzdGF1cmFudCBXYWd5dSBTdGVhayBIYW1idXJnZXIgKEhhbGFsIFZlZ2FuIEdsdXRlbiBGcmVlKSBLYXdhcmFtYWNoaSDkuqzpg70g5ZKM54mbIOeJm-aOkg!5e1!3m2!1sja!2sjp!4v1778840775753!5m2!1sja!2sjp",
-      "tablecheck_url": "https://www.tablecheck.com/shops/5wkawaramachi/reserve"
+      "tablecheck_url": "https://www.tablecheck.com/shops/5wkawaramachi/reserve",
+      "google_rating": "4.7",
+      "google_count": "2,206",
+      "google_rating_img": "assets/kawaramachi_review.jpg"
     },
     {
       "slug": "ohatsu-tenjin",
@@ -102,7 +111,10 @@
       "instagram_url": "",
       "maps_link": "https://maps.app.goo.gl/ycVUMzupbrTkH5K49",
       "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d208.43404903499732!2d135.50131916090282!3d34.70092857295818!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e737d3d79fad%3A0x34aa836911c15bd3!2sWagyu%20Steak%20%26%20Hamburger%20(Halal%20Gluten%20Free)%20Osaka%20Station%20Restaurant!5e1!3m2!1sja!2sjp!4v1778840872907!5m2!1sja!2sjp",
-      "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-ohatsutennjin/reserve"
+      "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-ohatsutennjin/reserve",
+      "google_rating": "4.8",
+      "google_count": "1,046",
+      "google_rating_img": "assets/ohatsutenjin_review.jpg"
     },
     {
       "slug": "shin-okubo",
@@ -126,7 +138,10 @@
       "instagram_url": "https://www.instagram.com/shinjuku_5w_tokyo?igsh=MW01OGZ5YXhvaWNsZw==",
       "maps_link": "https://maps.app.goo.gl/ENuVfdJZuARJvQjn7",
       "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d760.4621575436136!2d139.7020532!3d35.698213!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d0a84c996ff%3A0xa473959440d7db81!2zV2FneXUgU3RlYWsgJiBIYW1idXJnZXIgUGl6emEgKEhhbGFsIFZlZ2FuIEdsdXRlbiBGcmVlKSBLYWJ1a2kgU2hpbiBPa3VibyBSZXN0YXVyYW50IOaWsOWuvyDlkozniZsg5ouJ6Z2iIOmkkOWOhQ!5e1!3m2!1sja!2sjp!4v1778840962512!5m2!1sja!2sjp",
-      "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-shinokubo-5w-tokyo/reserve"
+      "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-shinokubo-5w-tokyo/reserve",
+      "google_rating": "4.9",
+      "google_count": "1,112",
+      "google_rating_img": "assets/shinokubo_review.jpg"
     },
     {
       "slug": "kiyomizuzaka",
@@ -150,7 +165,10 @@
       "instagram_url": "https://www.instagram.com/kiyomizutemple_wagyu?igsh=dDNzZHFlYzZlZ3Zy",
       "maps_link": "https://maps.app.goo.gl/wjXaMLqBmmHEDqQH8",
       "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d191.7720639052673!2d135.7774029!3d34.9974298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001096c31b78bf7%3A0xa3d8830499cb8d38!2sWagyu%20%26%20Vegan%20Hamburger%20(Halal%20Gluten%20Free)%20%E5%92%8C%E7%89%9B%E6%B1%89%E5%A0%A1%20Kiyomizu%20Temple%20Restaurant!5e1!3m2!1sja!2sjp!4v1778841131814!5m2!1sja!2sjp",
-      "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-kiyomizuzaka/reserve"
+      "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-kiyomizuzaka/reserve",
+      "google_rating": "4.5",
+      "google_count": "638",
+      "google_rating_img": "assets/kiyomizu_review.jpg"
     },
     {
       "slug": "pontocho",
@@ -174,7 +192,10 @@
       "instagram_url": "",
       "maps_link": "https://maps.app.goo.gl/AUdW6VdgHGQYwJAf7",
       "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.002921492206!2d135.7709998!3d35.00676610000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109f8ec8e546d%3A0xb4bace007b0c3c15!2zV2FneXUgSGFsYWwgSGFtYnVyZ2VyICYgU3RlYWsgUG9udG8gUmVzdGF1cmFudCDkuqzpg70g5YWI5paX55S6IOWSjOeJmyDppJDljoU!5e1!3m2!1sja!2sjp!4v1778841232824!5m2!1sja!2sjp",
-      "tablecheck_url": ""
+      "tablecheck_url": "",
+      "google_rating": "4.8",
+      "google_count": "1,080",
+      "google_rating_img": "assets/pontocho_review.jpg"
     }
   ]
 }
