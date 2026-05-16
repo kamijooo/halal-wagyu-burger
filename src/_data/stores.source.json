@@ -33,7 +33,12 @@
       "tablecheck_url": "https://www.tablecheck.com/shops/wagyu-burger-steak-teriyaki-5w-tokyo/reserve",
       "google_rating": "4.8",
       "google_count": "3,461",
-      "google_rating_img": "assets/asakusa_review.jpg"
+      "google_rating_img": "assets/asakusa_review.jpg",
+      "hero_photos": [
+        "assets/hero_asakusa-shotengai_1.jpg",
+        "assets/hero_asakusa-shotengai_2.jpg",
+        "assets/hero_asakusa-shotengai_3.jpg"
+      ]
     },
     {
       "slug": "kyoto-station",
@@ -60,7 +65,8 @@
       "tablecheck_url": "https://www.tablecheck.com/shops/5wkyotostation/reserve",
       "google_rating": "4.6",
       "google_count": "1,563",
-      "google_rating_img": "assets/kyotostation_review.jpg"
+      "google_rating_img": "assets/kyotostation_review.jpg",
+      "hero_photos": []
     },
     {
       "slug": "kyoto-kawaramachi",
@@ -87,7 +93,8 @@
       "tablecheck_url": "https://www.tablecheck.com/shops/5wkawaramachi/reserve",
       "google_rating": "4.7",
       "google_count": "2,206",
-      "google_rating_img": "assets/kawaramachi_review.jpg"
+      "google_rating_img": "assets/kawaramachi_review.jpg",
+      "hero_photos": []
     },
     {
       "slug": "ohatsu-tenjin",
@@ -114,7 +121,8 @@
       "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-ohatsutennjin/reserve",
       "google_rating": "4.8",
       "google_count": "1,046",
-      "google_rating_img": "assets/ohatsutenjin_review.jpg"
+      "google_rating_img": "assets/ohatsutenjin_review.jpg",
+      "hero_photos": []
     },
     {
       "slug": "shin-okubo",
@@ -141,7 +149,8 @@
       "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-shinokubo-5w-tokyo/reserve",
       "google_rating": "4.9",
       "google_count": "1,112",
-      "google_rating_img": "assets/shinokubo_review.jpg"
+      "google_rating_img": "assets/shinokubo_review.jpg",
+      "hero_photos": []
     },
     {
       "slug": "kiyomizuzaka",
@@ -168,7 +177,8 @@
       "tablecheck_url": "https://www.tablecheck.com/shops/halal-wagyu-kiyomizuzaka/reserve",
       "google_rating": "4.5",
       "google_count": "638",
-      "google_rating_img": "assets/kiyomizu_review.jpg"
+      "google_rating_img": "assets/kiyomizu_review.jpg",
+      "hero_photos": []
     },
     {
       "slug": "pontocho",
@@ -195,7 +205,8 @@
       "tablecheck_url": "",
       "google_rating": "4.8",
       "google_count": "1,080",
-      "google_rating_img": "assets/pontocho_review.jpg"
+      "google_rating_img": "assets/pontocho_review.jpg",
+      "hero_photos": []
     }
   ]
 }
