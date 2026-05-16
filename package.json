@@ -1,0 +1,15 @@
+{
+  "name": "halal-wagyu-burger",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Halal Wagyu Burger — multi-store landing pages",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "dev": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
