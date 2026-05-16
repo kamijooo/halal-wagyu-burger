@@ -125,17 +125,9 @@ permalink: "/{{ store.region }}/{{ store.slug }}/index.html"
         <div class="tri-overlay"></div>
       </div>
       <div class="tri-col">
-        {% if store.hero_photos and store.hero_photos.length %}
-        <div class="tri-slideshow" data-slideshow>
-          {% for photo in store.hero_photos %}
-          <img class="tri-slide{% if loop.first %} is-active{% endif %}" src="/{{ photo }}" alt="{{ store.name_short }} — {{ loop.index }}" />
-          {% endfor %}
-        </div>
-        {% else %}
         <video autoplay muted loop playsinline preload="auto">
           <source src="/assets/hero-left-new.mp4" type="video/mp4" />
         </video>
-        {% endif %}
         <div class="tri-overlay"></div>
       </div>
     </div>
